@@ -1,0 +1,3 @@
+enum ProductName {
+    APPLE, BANANA, ORANGE, GRAPE, WATERMELON, PINEAPPLE, MANGO;
+}
